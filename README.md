@@ -22,3 +22,6 @@ Plants Vs. Zombies Fusion Development Team:
 - [@蓝蝶蝶Starryfly](https://space.bilibili.com/27033629) 
 
 Thank you to [@高数带我飞](https://space.bilibili.com/1117414477) (LibraHp) for assistance on the original mod.
+
+# Original README by Infinite75
+[Read here](README original.md)
