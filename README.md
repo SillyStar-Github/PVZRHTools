@@ -24,4 +24,4 @@ Plants Vs. Zombies Fusion Development Team:
 Thank you to [@高数带我飞](https://space.bilibili.com/1117414477) (LibraHp) for assistance on the original mod.
 
 # Original README by Infinite75
-[Read here](README original.md)
+[Read here](/README%20original.md)
